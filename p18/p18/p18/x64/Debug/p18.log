@@ -1,0 +1,10 @@
+﻿  p18.c
+C:\Users\calvin\Desktop\1111_hw\p18\p18\p18\p18.c(1,1): warning C4819: 檔案含有無法在目前字碼頁 (950) 中表示的字元。請以 Unicode 格式儲存檔案以防止資料遺失
+C:\Users\calvin\Desktop\1111_hw\p18\p18\p18\p18.c(11,23): warning C4047: '函式': 'rsize_t' 與 'char [60]' 間接取值的層級不同
+C:\Users\calvin\Desktop\1111_hw\p18\p18\p18\p18.c(11,23): warning C4024: 'strcpy_s': 型式和實質參數 2 不同的類型
+C:\Users\calvin\Desktop\1111_hw\p18\p18\p18\p18.c(11,5): error C2198: 'errno_t strcpy_s(char *,rsize_t,const char *)': 呼叫的引數太少
+C:\Users\calvin\Desktop\1111_hw\p18\p18\p18\p18.c(14,11): warning C4267: '=': 將 'size_t' 轉換為 'int'，資料可能遺失
+C:\Users\calvin\Desktop\1111_hw\p18\p18\p18\p18.c(15,37): warning C4474: 'printf': 傳遞給格式字串的引數太多
+      C:\Users\calvin\Desktop\1111_hw\p18\p18\p18\p18.c(15,37):
+      預留位置及其參數需要 0 個 variadic 引數，但卻提供了 1 個
+  

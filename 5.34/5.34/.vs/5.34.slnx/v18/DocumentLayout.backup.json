@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\calvin\\Desktop\\1111_hw\\5.34\\5.34\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{565C6CAD-F533-4B94-8319-539FEAE5F685}|5.34\\5.34.vcxproj|C:\\Users\\calvin\\Desktop\\1111_hw\\5.34\\5.34\\5.34\\5.34.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{565C6CAD-F533-4B94-8319-539FEAE5F685}|5.34\\5.34.vcxproj|solutionrelative:5.34\\5.34.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "5.34.c",
+              "DocumentMoniker": "C:\\Users\\calvin\\Desktop\\1111_hw\\5.34\\5.34\\5.34\\5.34.c",
+              "RelativeDocumentMoniker": "5.34\\5.34.c",
+              "ToolTip": "C:\\Users\\calvin\\Desktop\\1111_hw\\5.34\\5.34\\5.34\\5.34.c",
+              "RelativeToolTip": "5.34\\5.34.c",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAAABsAAAAKAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000423|",
+              "WhenOpened": "2026-11-11T08:31:38.439Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
